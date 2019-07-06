@@ -10,14 +10,15 @@ Requirements:
 git
 screen
 
-Cent OS:
-yum install git -y
-yum install screen -y
+For Cent OS
 
-1. git clone <https://github.com/Doreamonsky/Panzer-War-Server-Linux.git>
-2. cd Panzer-War-Server-Linux
-3. chmod +x ./runServer.sh
-4. ./runServer.sh
+1. yum install git -y
+2. yum install screen -y
+
+3. git clone <https://github.com/Doreamonsky/Panzer-War-Server-Linux.git>
+4. cd Panzer-War-Server-Linux
+5. chmod +x ./runServer.sh
+6. ./runServer.sh
 
 Tip: Press ctrl+a crtl+d to exit the server without closing it. And screen -r GameServer to reconnect it.
 
