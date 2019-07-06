@@ -1,0 +1,1 @@
+ ./Server.x86_64 -clientType Server -gameMap Desert -port 7777 -modSupport Deny -playerCount 16 -battleRank 5 -battleRankRange 2 -batchmode -nographics
