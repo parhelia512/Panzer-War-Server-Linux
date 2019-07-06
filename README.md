@@ -4,6 +4,8 @@ This is Panzer War Game Server for Linux.
 
 ## Installation & Runing with default settings
 
+Video Tutorial: <https://youtu.be/asSYQOijpvU>
+
 1. Open ternimal
 
 Requirements:
