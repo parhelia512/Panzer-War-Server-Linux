@@ -5,10 +5,21 @@ This is Panzer War Game Server for Linux.
 ## Installation & Runing with default settings
 
 1. Open ternimal
-2. git clone <https://github.com/Doreamonsky/Panzer-War-Server-Linux.git>
-3. cd Panzer-War-Server-Linux
-4. chmod +x ./runServer.sh
-5. ./runServer.sh
+
+Requirements:
+git
+screen
+
+Cent OS:
+yum install git
+yum install screen
+
+1. git clone <https://github.com/Doreamonsky/Panzer-War-Server-Linux.git>
+2. cd Panzer-War-Server-Linux
+3. chmod +x ./runServer.sh
+4. ./runServer.sh
+
+Tip: Press ctrl+a crtl+d to exit the server without closing it. And screen -r GameServer to reconnect it.
 
 ## FireWare
 
