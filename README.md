@@ -11,8 +11,8 @@ git
 screen
 
 Cent OS:
-yum install git
-yum install screen
+yum install git -y
+yum install screen -y
 
 1. git clone <https://github.com/Doreamonsky/Panzer-War-Server-Linux.git>
 2. cd Panzer-War-Server-Linux
