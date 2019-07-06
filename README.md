@@ -26,6 +26,9 @@ Tip: Press ctrl+a crtl+d to exit the server without closing it. And screen -r Ga
 
 You need to allow TCP 7777 port.
 
+1. firewall-cmd --permanent --add-port=7777/tcp
+2. firewall-cmd --reload
+
 ## Advance Usage
 
 Usage:
