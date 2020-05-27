@@ -1,0 +1,335 @@
+<linker>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Object" preserve="nothing"/>
+		<type fullname="UnityEngine.Behaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.Component" preserve="nothing"/>
+		<type fullname="UnityEngine.MonoBehaviour" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoScript" preserve="nothing"/>
+		<type fullname="UnityEngine.Material" preserve="nothing"/>
+		<type fullname="UnityEditor.UnityConnectSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.VFXManager" preserve="nothing"/>
+		<type fullname="UnityEngine.Shader" preserve="nothing"/>
+		<type fullname="UnityEditor.AudioManager" preserve="nothing"/>
+		<type fullname="UnityEditor.PlayerSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.TextAsset" preserve="nothing"/>
+		<type fullname="UnityEditor.PhysicsManager" preserve="nothing"/>
+		<type fullname="UnityEditor.TimeManager" preserve="nothing"/>
+		<type fullname="UnityEditor.InputManager" preserve="nothing"/>
+		<type fullname="UnityEditor.TagManager" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoManager" preserve="nothing"/>
+		<type fullname="UnityEngine.Rendering.GraphicsSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.QualitySettings" preserve="nothing"/>
+		<type fullname="UnityEditor.Physics2DSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Camera" preserve="nothing"/>
+		<type fullname="UnityEngine.Transform" preserve="nothing"/>
+		<type fullname="UnityEngine.FlareLayer" preserve="nothing"/>
+		<type fullname="UnityEngine.Renderer" preserve="nothing"/>
+		<type fullname="UnityEngine.TrailRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.LineRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshFilter" preserve="nothing"/>
+		<type fullname="UnityEngine.SkinnedMeshRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.SpriteRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.AnimationClip" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioSource" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioListener" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture" preserve="nothing"/>
+		<type fullname="UnityEngine.ParticleSystem" preserve="nothing"/>
+		<type fullname="UnityEngine.ParticleSystemRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.Rigidbody" preserve="nothing"/>
+		<type fullname="UnityEngine.Collider" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.CapsuleCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.BoxCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.SphereCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.TextMesh" preserve="nothing"/>
+		<type fullname="UnityEngine.Canvas" preserve="nothing"/>
+		<type fullname="UnityEngine.RectTransform" preserve="nothing"/>
+		<type fullname="UnityEngine.Animator" preserve="nothing"/>
+		<type fullname="UnityEngine.RuntimeAnimatorController" preserve="nothing"/>
+		<type fullname="UnityEngine.Motion" preserve="nothing"/>
+		<type fullname="UnityEditor.Animations.AnimatorController" preserve="nothing"/>
+		<type fullname="UnityEngine.Avatar" preserve="nothing"/>
+		<type fullname="UnityEngine.GameObject" preserve="nothing"/>
+		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Font" preserve="nothing"/>
+		<type fullname="UnityEngine.Mesh" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
+		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.CanvasGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.ComputeShader" preserve="nothing"/>
+		<type fullname="UnityEngine.LODGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.PhysicMaterial" preserve="nothing"/>
+		<type fullname="UnityEngine.Projector" preserve="nothing"/>
+		<type fullname="UnityEngine.Light" preserve="nothing"/>
+		<type fullname="UnityEngine.TerrainCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.TerrainData" preserve="nothing"/>
+		<type fullname="UnityEngine.Cubemap" preserve="nothing"/>
+		<type fullname="UnityEngine.LightProbes" preserve="nothing"/>
+		<type fullname="UnityEngine.Terrain" preserve="nothing"/>
+		<type fullname="UnityEngine.AI.NavMeshData" preserve="nothing"/>
+		<type fullname="UnityEngine.TerrainLayer" preserve="nothing"/>
+		<type fullname="UnityEngine.OcclusionArea" preserve="nothing"/>
+		<type fullname="UnityEngine.ReflectionProbe" preserve="nothing"/>
+		<type fullname="UnityEngine.GUILayer" preserve="nothing"/>
+		<type fullname="UnityEngine.WheelCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.Flare" preserve="nothing"/>
+		<type fullname="UnityEngine.LensFlare" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Assembly-CSharp-firstpass">
+		<type fullname="Assets.Plugins.ButtonSoundsEditor.ButtonClickSound" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Core">
+		<type fullname="ShanghaiWindy.Core.AccountManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.AccountManagerUI" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.AchievementManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.AchievementUIManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Aerofoil" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Aircraft" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.AssetLoader" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.AssetShaderManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.AttitudeIndicator" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.BattleMainUIReferenceModule" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.BattleRewardManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Building" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.CamouflageData" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.CamouflageManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.CenterOfGravity" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.CommonDataManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.ControlSurface" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.DamageStickManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.DefenceBotLogic" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.DragCustom" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.DynamicReferenceManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Engine" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.EquipmentBuffData" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.EquipmentBuffManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.ExternalPoolResourceManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FlightCamera" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FlightControlAdapter" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FlightGUIManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FlightKeyboardControl" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FlightMobileControl" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FlightSimulation" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FreeCamera" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.FreeConvertHelper" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageArmorInspector" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageEquipmentBuffManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageShopManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageTouchBar" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageUIModule" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageUtilityLoader" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageVehicleDecalManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GarageVehicleManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.GroundEffect" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.HistoricalMatchingData" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.HitBox" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Joystick" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.LandingGear" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MapData" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MapDataManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MirrorWing" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MobileCameraBar" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.ModHubUIManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.NeedleInstrument" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.OfflineFlightManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.OfflineGameManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.OfflineGameManagerUIModule" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.OfflineGameRTSHistoricalManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.OfflineGameRTSManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.PatrolPoint" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.PlayerCamera" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.PlayerCameraAssistance" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.PointFunctions" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.PopMessageManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.PostCameraEffect" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.PropWash" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSBot" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSCamera" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSControlAdapte" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSCursorManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSGUIManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSMapData" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSMapDataLoader" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSMiniMapClickHandler" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSMiniMapManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSMission" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSMouseControl" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSNavigationVisual" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSResouces" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSRotateBar" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSSelectionHighlight" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSSelectionManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSTouchBar" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSTouchControl" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSUnitManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSViewManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RTSVoiceManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RaceSet" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RandomOfflineUIModule" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.RudderPedal" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.SceneAssetPrefab" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.SimpleBotLogic" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Skidmarks" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.StallWarner" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.StartUp" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.StaticResourcesReferences" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.SteerableNosewheel" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.SupportDevManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.TerrainManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.ThrottleStick" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.TrainBotLogic" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.TutorialSceneManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.UserSightBar" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.UserSightData" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.UserSightDataManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleComponentsReferenceManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleDecalData" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleDecalDataManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleExternalTextDataManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleFireCrossEffect" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleInfo" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleInfoManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.VehicleTemplate" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.WaveDefenceMission" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.WheelAudio" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.WheelBrake" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.WheelOverrideManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.WindAudio" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Wing" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.Yoke" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.uGUI_ControllorSetting" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.uGUI_Localization" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.uGUI_Localsize" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.uGUI_QualitySetting" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.uGUI_ScalerManager" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Extensions.UILineRenderer" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="CoreSteam">
+		<type fullname="Mirror.FizzySteam.FizzySteamyMirror" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.SteamWork.CoreSteam" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.SteamWork.WorkshopDisplayManager" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="EasyRoads3Dv3">
+		<type fullname="ERSurfaceScript" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERConnectionParent" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERCrossingPrefabs" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERCrossings" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERMarkerExt" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERModularBase" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERModularRoad" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERPrefabInstance" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERRoundabouts" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERSOMarkerExt" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERSORoadExt" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERSideObjectInstance" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERSideObjectLog" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.ERTerrain" preserve="nothing"/>
+		<type fullname="EasyRoads3Dv3.SideObject" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="FogOfWar">
+		<type fullname="FogOfWarEffect" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="MaterialUI">
+		<type fullname="MaterialUI.AnimatedShadow" preserve="nothing"/>
+		<type fullname="MaterialUI.CircleProgressIndicatorInstantiationHelper" preserve="nothing"/>
+		<type fullname="MaterialUI.CircularProgressIndicator" preserve="nothing"/>
+		<type fullname="MaterialUI.ColorCopier" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogAlert" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogBackground" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogCheckboxList" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogCheckboxOption" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogProgress" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogPrompt" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogRadioList" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogRadioOption" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogSimpleList" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogSimpleOption" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogTimePicker" preserve="nothing"/>
+		<type fullname="MaterialUI.DialogTimePickerClock" preserve="nothing"/>
+		<type fullname="MaterialUI.DragEventSender" preserve="nothing"/>
+		<type fullname="MaterialUI.DropdownTrigger" preserve="nothing"/>
+		<type fullname="MaterialUI.LinearProgressIndicator" preserve="nothing"/>
+		<type fullname="MaterialUI.MaterialButton" preserve="nothing"/>
+		<type fullname="MaterialUI.MaterialCheckbox" preserve="nothing"/>
+		<type fullname="MaterialUI.MaterialInputField" preserve="nothing"/>
+		<type fullname="MaterialUI.MaterialRadio" preserve="nothing"/>
+		<type fullname="MaterialUI.MaterialRipple" preserve="nothing"/>
+		<type fullname="MaterialUI.MaterialShadow" preserve="nothing"/>
+		<type fullname="MaterialUI.OverscrollConfig" preserve="nothing"/>
+		<type fullname="MaterialUI.RectTransformSnap" preserve="nothing"/>
+		<type fullname="MaterialUI.SnackbarAnimator" preserve="nothing"/>
+		<type fullname="MaterialUI.SpriteSwapper" preserve="nothing"/>
+		<type fullname="MaterialUI.ToastAnimator" preserve="nothing"/>
+		<type fullname="MaterialUI.VectorImage" preserve="nothing"/>
+		<type fullname="MaterialUI.VerticalScrollLayoutElement" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Mirror">
+		<type fullname="Mirror.NetworkDiscovery" preserve="nothing"/>
+		<type fullname="Mirror.NetworkIdentity" preserve="nothing"/>
+		<type fullname="Mirror.TelepathyTransport" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="MultiPlayer">
+		<type fullname="ShanghaiWindy.Core.MultiPlayer.CoreHostManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MultiPlayer.CoreNetworkManager" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MultiPlayer.NetLobby" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MultiPlayer.NetPlayer" preserve="nothing"/>
+		<type fullname="ShanghaiWindy.Core.MultiPlayer.NetSceneSync" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="PostProcessing">
+		<type fullname="UnityEngine.PostProcessing.PostProcessingBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.PostProcessing.PostProcessingProfile" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.InputSystem">
+		<type fullname="UnityEngine.InputSystem.InputSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.InputSystemObject" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.RemoteInputPlayerConnection" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.EventTrigger" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.TouchInputModule" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.ContentSizeFitter" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Dropdown" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GridLayoutGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.InputField" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.LayoutElement" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Mask" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Outline" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.RawImage" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.RectMask2D" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.ScrollRect" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Scrollbar" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Selectable" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Shadow" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Slider" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Toggle" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.ToggleGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="cInput">
+		<type fullname="cInputDemoSetup" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="cInputFirstPasss">
+		<type fullname="cInput" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="ch.sycoforge.Decal">
+		<type fullname="ch.sycoforge.Decal.DecalRoot" preserve="nothing"/>
+		<type fullname="ch.sycoforge.Decal.DecalTextureAtlas" preserve="nothing"/>
+		<type fullname="ch.sycoforge.Decal.EasyDecal" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="com.unity.multiplayer-hlapi.Runtime">
+		<type fullname="UnityEngine.Networking.NetworkIdentity" preserve="nothing"/>
+	</assembly>
+</linker>

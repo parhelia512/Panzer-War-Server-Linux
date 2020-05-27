@@ -1,0 +1,4369 @@
+{
+    "typesInScenes": [
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Object",
+            "fullManagedTypeName": "UnityEngine.Object",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "EditorExtension",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NamedObject",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Behaviour",
+            "fullManagedTypeName": "UnityEngine.Behaviour",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Component",
+            "fullManagedTypeName": "UnityEngine.Component",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoBehaviour",
+            "fullManagedTypeName": "UnityEngine.MonoBehaviour",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoScript",
+            "fullManagedTypeName": "UnityEditor.MonoScript",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Material",
+            "fullManagedTypeName": "UnityEngine.Material",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "GlobalGameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "StreamingManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Streaming",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "GameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "UnityConnectSettings",
+            "fullManagedTypeName": "UnityEditor.UnityConnectSettings",
+            "moduleName": "UnityConnect",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "VFXManager",
+            "fullManagedTypeName": "UnityEditor.VFXManager",
+            "moduleName": "VFX",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Shader",
+            "fullManagedTypeName": "UnityEngine.Shader",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioManager",
+            "fullManagedTypeName": "UnityEditor.AudioManager",
+            "moduleName": "Audio",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PlayerSettings",
+            "fullManagedTypeName": "UnityEditor.PlayerSettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TextAsset",
+            "fullManagedTypeName": "UnityEngine.TextAsset",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PhysicsManager",
+            "fullManagedTypeName": "UnityEditor.PhysicsManager",
+            "moduleName": "Physics",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TimeManager",
+            "fullManagedTypeName": "UnityEditor.TimeManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "InputManager",
+            "fullManagedTypeName": "UnityEditor.InputManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TagManager",
+            "fullManagedTypeName": "UnityEditor.TagManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoManager",
+            "fullManagedTypeName": "UnityEditor.MonoManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "GraphicsSettings",
+            "fullManagedTypeName": "UnityEngine.Rendering.GraphicsSettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "DelayedCallManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "QualitySettings",
+            "fullManagedTypeName": "UnityEngine.QualitySettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "BuildSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "RuntimeInitializeOnLoadManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "ResourceManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "ScriptMapper",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NavMeshProjectSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "AI",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Physics2DSettings",
+            "fullManagedTypeName": "UnityEditor.Physics2DSettings",
+            "moduleName": "Physics2D",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Camera",
+            "fullManagedTypeName": "UnityEngine.Camera",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Transform",
+            "fullManagedTypeName": "UnityEngine.Transform",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "FlareLayer",
+            "fullManagedTypeName": "UnityEngine.FlareLayer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Renderer",
+            "fullManagedTypeName": "UnityEngine.Renderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TrailRenderer",
+            "fullManagedTypeName": "UnityEngine.TrailRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LineRenderer",
+            "fullManagedTypeName": "UnityEngine.LineRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshFilter",
+            "fullManagedTypeName": "UnityEngine.MeshFilter",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SkinnedMeshRenderer",
+            "fullManagedTypeName": "UnityEngine.SkinnedMeshRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshRenderer",
+            "fullManagedTypeName": "UnityEngine.MeshRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SpriteRenderer",
+            "fullManagedTypeName": "UnityEngine.SpriteRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AnimationClip",
+            "fullManagedTypeName": "UnityEngine.AnimationClip",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioSource",
+            "fullManagedTypeName": "UnityEngine.AudioSource",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioBehaviour",
+            "fullManagedTypeName": "UnityEngine.AudioBehaviour",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioListener",
+            "fullManagedTypeName": "UnityEngine.AudioListener",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioClip",
+            "fullManagedTypeName": "UnityEngine.AudioClip",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Texture",
+            "fullManagedTypeName": "UnityEngine.Texture",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ParticleSystem",
+            "fullManagedTypeName": "UnityEngine.ParticleSystem",
+            "moduleName": "ParticleSystem",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ParticleSystemRenderer",
+            "fullManagedTypeName": "UnityEngine.ParticleSystemRenderer",
+            "moduleName": "ParticleSystem",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Rigidbody",
+            "fullManagedTypeName": "UnityEngine.Rigidbody",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Collider",
+            "fullManagedTypeName": "UnityEngine.Collider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshCollider",
+            "fullManagedTypeName": "UnityEngine.MeshCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CapsuleCollider",
+            "fullManagedTypeName": "UnityEngine.CapsuleCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "BoxCollider",
+            "fullManagedTypeName": "UnityEngine.BoxCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SphereCollider",
+            "fullManagedTypeName": "UnityEngine.SphereCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TextMesh",
+            "fullManagedTypeName": "UnityEngine.TextMesh",
+            "moduleName": "TextRendering",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Canvas",
+            "fullManagedTypeName": "UnityEngine.Canvas",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RectTransform",
+            "fullManagedTypeName": "UnityEngine.RectTransform",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Animator",
+            "fullManagedTypeName": "UnityEngine.Animator",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RuntimeAnimatorController",
+            "fullManagedTypeName": "UnityEngine.RuntimeAnimatorController",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Motion",
+            "fullManagedTypeName": "UnityEngine.Motion",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AnimatorController",
+            "fullManagedTypeName": "UnityEditor.Animations.AnimatorController",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Avatar",
+            "fullManagedTypeName": "UnityEngine.Avatar",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "GameObject",
+            "fullManagedTypeName": "UnityEngine.GameObject",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LightmapSettings",
+            "fullManagedTypeName": "UnityEngine.LightmapSettings",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Font",
+            "fullManagedTypeName": "UnityEngine.Font",
+            "moduleName": "TextRendering",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Mesh",
+            "fullManagedTypeName": "UnityEngine.Mesh",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Texture2D",
+            "fullManagedTypeName": "UnityEngine.Texture2D",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Sprite",
+            "fullManagedTypeName": "UnityEngine.Sprite",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CanvasRenderer",
+            "fullManagedTypeName": "UnityEngine.CanvasRenderer",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CanvasGroup",
+            "fullManagedTypeName": "UnityEngine.CanvasGroup",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ComputeShader",
+            "fullManagedTypeName": "UnityEngine.ComputeShader",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "SampleClip",
+            "fullManagedTypeName": "",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LODGroup",
+            "fullManagedTypeName": "UnityEngine.LODGroup",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RenderSettings",
+            "fullManagedTypeName": "UnityEngine.RenderSettings",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CGProgram",
+            "fullManagedTypeName": "UnityEngine.TextAsset",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PhysicMaterial",
+            "fullManagedTypeName": "UnityEngine.PhysicMaterial",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Projector",
+            "fullManagedTypeName": "UnityEngine.Projector",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "LevelGameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity",
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Light",
+            "fullManagedTypeName": "UnityEngine.Light",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/ArtPackage/Sence/Lobby/Lobby.unity",
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TerrainCollider",
+            "fullManagedTypeName": "UnityEngine.TerrainCollider",
+            "moduleName": "TerrainPhysics",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TerrainData",
+            "fullManagedTypeName": "UnityEngine.TerrainData",
+            "moduleName": "Terrain",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Cubemap",
+            "fullManagedTypeName": "UnityEngine.Cubemap",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LightProbes",
+            "fullManagedTypeName": "UnityEngine.LightProbes",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Terrain",
+            "fullManagedTypeName": "UnityEngine.Terrain",
+            "moduleName": "Terrain",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NavMeshSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "AI",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "NavMeshData",
+            "fullManagedTypeName": "UnityEngine.AI.NavMeshData",
+            "moduleName": "AI",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TerrainLayer",
+            "fullManagedTypeName": "UnityEngine.TerrainLayer",
+            "moduleName": "Terrain",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Ensk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Village_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Desert_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Training_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity",
+                "Assets/Res/Cooked/Scene/River_Cooked.unity",
+                "Assets/Res/Cooked/Scene/KurskWinter_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Path_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Tutorial_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Cliff_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Mine_Cooked.unity",
+                "Assets/Res/Cooked/Scene/Kursk_Cooked.unity",
+                "Assets/Res/Cooked/Scene/D-Day_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "OcclusionArea",
+            "fullManagedTypeName": "UnityEngine.OcclusionArea",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Longueval_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "OcclusionCullingSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "Umbra",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "OcclusionCullingData",
+            "fullManagedTypeName": "",
+            "moduleName": "Umbra",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Arabcity_Cooked.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ReflectionProbe",
+            "fullManagedTypeName": "UnityEngine.ReflectionProbe",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Res/Cooked/Scene/Fury_Cooked.unity",
+                "Assets/Res/Cooked/Scene/garage_Cooked.unity",
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "GUILayer",
+            "fullManagedTypeName": "UnityEngine.GUILayer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "WheelCollider",
+            "fullManagedTypeName": "UnityEngine.WheelCollider",
+            "moduleName": "Vehicles",
+            "usedInScenes": [
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Flare",
+            "fullManagedTypeName": "UnityEngine.Flare",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LensFlare",
+            "fullManagedTypeName": "UnityEngine.LensFlare",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/UnityFS/Scenes/FSAlpha.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp-firstpass.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Assets.Plugins.ButtonSoundsEditor.ButtonClickSound",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.AccountManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.AccountManagerUI",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.AchievementManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.AchievementUIManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Aerofoil",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Aircraft",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.AssetLoader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.AssetShaderManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.AttitudeIndicator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.BattleMainUIReferenceModule",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.BattleRewardManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Building",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.CamouflageData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.CamouflageManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.CenterOfGravity",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.CommonDataManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.ControlSurface",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.DamageStickManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.DefenceBotLogic",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.DragCustom",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.DynamicReferenceManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Engine",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.EquipmentBuffData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.EquipmentBuffManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.ExternalPoolResourceManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FlightCamera",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FlightControlAdapter",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FlightGUIManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FlightKeyboardControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FlightMobileControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FlightSimulation",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FreeCamera",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.FreeConvertHelper",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageArmorInspector",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageEquipmentBuffManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageShopManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageTouchBar",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageUIModule",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageUtilityLoader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageVehicleDecalManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GarageVehicleManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.GroundEffect",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.HistoricalMatchingData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.HitBox",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Joystick",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.LandingGear",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MapData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MapDataManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MirrorWing",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MobileCameraBar",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.ModHubUIManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.NeedleInstrument",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.OfflineFlightManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.OfflineGameManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.OfflineGameManagerUIModule",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.OfflineGameRTSHistoricalManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.OfflineGameRTSManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.PatrolPoint",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.PlayerCamera",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.PlayerCameraAssistance",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.PointFunctions",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.PopMessageManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.PostCameraEffect",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.PropWash",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSBot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSCamera",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSControlAdapte",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSCursorManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSGUIManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSMapData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSMapDataLoader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSMiniMapClickHandler",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSMiniMapManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSMission",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSMouseControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSNavigationVisual",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSResouces",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSRotateBar",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSSelectionHighlight",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSSelectionManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSTouchBar",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSTouchControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSUnitManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSViewManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RTSVoiceManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RaceSet",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RandomOfflineUIModule",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.RudderPedal",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.SceneAssetPrefab",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.SimpleBotLogic",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Skidmarks",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.StallWarner",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.StartUp",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.StaticResourcesReferences",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.SteerableNosewheel",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.SupportDevManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.TerrainManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.ThrottleStick",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.TrainBotLogic",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.TutorialSceneManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.UserSightBar",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.UserSightData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.UserSightDataManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleComponentsReferenceManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleDecalData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleDecalDataManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleExternalTextDataManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleFireCrossEffect",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleInfo",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleInfoManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.VehicleTemplate",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.WaveDefenceMission",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.WheelAudio",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.WheelBrake",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.WheelOverrideManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.WindAudio",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Wing",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.Yoke",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.uGUI_ControllorSetting",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.uGUI_Localization",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.uGUI_Localsize",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.uGUI_QualitySetting",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.uGUI_ScalerManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Extensions.UILineRenderer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "CoreSteam.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Mirror.FizzySteam.FizzySteamyMirror",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "CoreSteam.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.SteamWork.CoreSteam",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "CoreSteam.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.SteamWork.WorkshopDisplayManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ERSurfaceScript",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERConnectionParent",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERCrossingPrefabs",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERCrossings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERMarkerExt",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERModularBase",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERModularRoad",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERPrefabInstance",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERRoundabouts",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERSOMarkerExt",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERSORoadExt",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERSideObjectInstance",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERSideObjectLog",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.ERTerrain",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "EasyRoads3Dv3.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EasyRoads3Dv3.SideObject",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "FogOfWar.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FogOfWarEffect",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.AnimatedShadow",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.CircleProgressIndicatorInstantiationHelper",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.CircularProgressIndicator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.ColorCopier",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogAlert",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogBackground",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogCheckboxList",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogCheckboxOption",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogProgress",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogPrompt",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogRadioList",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogRadioOption",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogSimpleList",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogSimpleOption",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogTimePicker",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DialogTimePickerClock",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DragEventSender",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.DropdownTrigger",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.LinearProgressIndicator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.MaterialButton",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.MaterialCheckbox",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.MaterialInputField",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.MaterialRadio",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.MaterialRipple",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.MaterialShadow",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.OverscrollConfig",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.RectTransformSnap",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.SnackbarAnimator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.SpriteSwapper",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.ToastAnimator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.VectorImage",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MaterialUI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MaterialUI.VerticalScrollLayoutElement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Mirror.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Mirror.NetworkDiscovery",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Mirror.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Mirror.NetworkIdentity",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Mirror.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Mirror.TelepathyTransport",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MultiPlayer.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MultiPlayer.CoreHostManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MultiPlayer.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MultiPlayer.CoreNetworkManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MultiPlayer.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MultiPlayer.NetLobby",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MultiPlayer.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MultiPlayer.NetPlayer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "MultiPlayer.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShanghaiWindy.Core.MultiPlayer.NetSceneSync",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "PostProcessing.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.PostProcessing.PostProcessingBehaviour",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "PostProcessing.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.PostProcessing.PostProcessingProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.InputSystem.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.InputSystem.InputSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.InputSystem.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.InputSystem.InputSystemObject",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.InputSystem.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.InputSystem.RemoteInputPlayerConnection",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.EventSystems.EventSystem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.EventSystems.EventTrigger",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.EventSystems.StandaloneInputModule",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.EventSystems.TouchInputModule",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Button",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.CanvasScaler",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.ContentSizeFitter",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Dropdown",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.GraphicRaycaster",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.GridLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.HorizontalLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Image",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.InputField",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.LayoutElement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Mask",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Outline",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.RawImage",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.RectMask2D",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.ScrollRect",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Scrollbar",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Selectable",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Shadow",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Slider",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Text",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Toggle",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.ToggleGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.VerticalLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "cInput.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "cInputDemoSetup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "cInputFirstPasss.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "cInput",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "ch.sycoforge.Decal.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ch.sycoforge.Decal.DecalRoot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "ch.sycoforge.Decal.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ch.sycoforge.Decal.DecalTextureAtlas",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "ch.sycoforge.Decal.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ch.sycoforge.Decal.EasyDecal",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "com.unity.multiplayer-hlapi.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Networking.NetworkIdentity",
+            "moduleName": "",
+            "usedInScenes": []
+        }
+    ],
+    "allNativeTypes": [
+        {
+            "name": "Object",
+            "module": "Core"
+        },
+        {
+            "name": "AnnotationManager",
+            "module": "Core"
+        },
+        {
+            "name": "AssetDatabaseV1",
+            "module": "AssetDatabase"
+        },
+        {
+            "name": "AssetMetaData",
+            "module": "Core"
+        },
+        {
+            "name": "AudioBuildInfo",
+            "module": "BuildReportingEditor"
+        },
+        {
+            "name": "BuiltAssetBundleInfoSet",
+            "module": "BuildReportingEditor"
+        },
+        {
+            "name": "Derived",
+            "module": "Core"
+        },
+        {
+            "name": "SubDerived",
+            "module": "Core"
+        },
+        {
+            "name": "EditorBuildSettings",
+            "module": "Editor"
+        },
+        {
+            "name": "EditorExtension",
+            "module": "Core"
+        },
+        {
+            "name": "Component",
+            "module": "Core"
+        },
+        {
+            "name": "Behaviour",
+            "module": "Core"
+        },
+        {
+            "name": "Animation",
+            "module": "Animation"
+        },
+        {
+            "name": "Animator",
+            "module": "Animation"
+        },
+        {
+            "name": "AudioBehaviour",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioListener",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioSource",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioFilter",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioChorusFilter",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioDistortionFilter",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioEchoFilter",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioHighPassFilter",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioLowPassFilter",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioReverbFilter",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioReverbZone",
+            "module": "Audio"
+        },
+        {
+            "name": "Camera",
+            "module": "Core"
+        },
+        {
+            "name": "Canvas",
+            "module": "UI"
+        },
+        {
+            "name": "CanvasGroup",
+            "module": "UI"
+        },
+        {
+            "name": "Cloth",
+            "module": "Cloth"
+        },
+        {
+            "name": "Collider2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "BoxCollider2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "CapsuleCollider2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "CircleCollider2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "CompositeCollider2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "EdgeCollider2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "PolygonCollider2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "TilemapCollider2D",
+            "module": "Tilemap"
+        },
+        {
+            "name": "ConstantForce",
+            "module": "Physics"
+        },
+        {
+            "name": "Effector2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "AreaEffector2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "BuoyancyEffector2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "PlatformEffector2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "PointEffector2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "SurfaceEffector2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "FlareLayer",
+            "module": "Core"
+        },
+        {
+            "name": "GUIElement",
+            "module": "Core"
+        },
+        {
+            "name": "GUIText",
+            "module": "TextRendering"
+        },
+        {
+            "name": "GUITexture",
+            "module": "Core"
+        },
+        {
+            "name": "GUILayer",
+            "module": "Core"
+        },
+        {
+            "name": "GridLayout",
+            "module": "Grid"
+        },
+        {
+            "name": "Grid",
+            "module": "Grid"
+        },
+        {
+            "name": "Tilemap",
+            "module": "Tilemap"
+        },
+        {
+            "name": "Halo",
+            "module": "Core"
+        },
+        {
+            "name": "HaloLayer",
+            "module": "Core"
+        },
+        {
+            "name": "IConstraint",
+            "module": "Animation"
+        },
+        {
+            "name": "AimConstraint",
+            "module": "Animation"
+        },
+        {
+            "name": "LookAtConstraint",
+            "module": "Animation"
+        },
+        {
+            "name": "ParentConstraint",
+            "module": "Animation"
+        },
+        {
+            "name": "PositionConstraint",
+            "module": "Animation"
+        },
+        {
+            "name": "RotationConstraint",
+            "module": "Animation"
+        },
+        {
+            "name": "ScaleConstraint",
+            "module": "Animation"
+        },
+        {
+            "name": "Joint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "AnchoredJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "DistanceJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "FixedJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "FrictionJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "HingeJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "SliderJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "SpringJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "WheelJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "RelativeJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "TargetJoint2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "LensFlare",
+            "module": "Core"
+        },
+        {
+            "name": "Light",
+            "module": "Core"
+        },
+        {
+            "name": "LightProbeGroup",
+            "module": "Core"
+        },
+        {
+            "name": "LightProbeProxyVolume",
+            "module": "Core"
+        },
+        {
+            "name": "MonoBehaviour",
+            "module": "Core"
+        },
+        {
+            "name": "NavMeshAgent",
+            "module": "AI"
+        },
+        {
+            "name": "NavMeshObstacle",
+            "module": "AI"
+        },
+        {
+            "name": "OffMeshLink",
+            "module": "AI"
+        },
+        {
+            "name": "ParticleSystemForceField",
+            "module": "ParticleSystem"
+        },
+        {
+            "name": "PhysicsUpdateBehaviour2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "ConstantForce2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "PlayableDirector",
+            "module": "Director"
+        },
+        {
+            "name": "Projector",
+            "module": "Core"
+        },
+        {
+            "name": "ReflectionProbe",
+            "module": "Core"
+        },
+        {
+            "name": "Skybox",
+            "module": "Core"
+        },
+        {
+            "name": "SortingGroup",
+            "module": "Core"
+        },
+        {
+            "name": "StreamingController",
+            "module": "Streaming"
+        },
+        {
+            "name": "Terrain",
+            "module": "Terrain"
+        },
+        {
+            "name": "VideoPlayer",
+            "module": "Video"
+        },
+        {
+            "name": "VisualEffect",
+            "module": "VFX"
+        },
+        {
+            "name": "WindZone",
+            "module": "Wind"
+        },
+        {
+            "name": "CanvasRenderer",
+            "module": "UI"
+        },
+        {
+            "name": "Collider",
+            "module": "Physics"
+        },
+        {
+            "name": "BoxCollider",
+            "module": "Physics"
+        },
+        {
+            "name": "CapsuleCollider",
+            "module": "Physics"
+        },
+        {
+            "name": "CharacterController",
+            "module": "Physics"
+        },
+        {
+            "name": "MeshCollider",
+            "module": "Physics"
+        },
+        {
+            "name": "SphereCollider",
+            "module": "Physics"
+        },
+        {
+            "name": "TerrainCollider",
+            "module": "TerrainPhysics"
+        },
+        {
+            "name": "WheelCollider",
+            "module": "Vehicles"
+        },
+        {
+            "name": "FakeComponent",
+            "module": "Core"
+        },
+        {
+            "name": "Joint",
+            "module": "Physics"
+        },
+        {
+            "name": "CharacterJoint",
+            "module": "Physics"
+        },
+        {
+            "name": "ConfigurableJoint",
+            "module": "Physics"
+        },
+        {
+            "name": "FixedJoint",
+            "module": "Physics"
+        },
+        {
+            "name": "HingeJoint",
+            "module": "Physics"
+        },
+        {
+            "name": "SpringJoint",
+            "module": "Physics"
+        },
+        {
+            "name": "LODGroup",
+            "module": "Core"
+        },
+        {
+            "name": "MeshFilter",
+            "module": "Core"
+        },
+        {
+            "name": "OcclusionArea",
+            "module": "Core"
+        },
+        {
+            "name": "OcclusionPortal",
+            "module": "Core"
+        },
+        {
+            "name": "ParticleSystem",
+            "module": "ParticleSystem"
+        },
+        {
+            "name": "Renderer",
+            "module": "Core"
+        },
+        {
+            "name": "BillboardRenderer",
+            "module": "Core"
+        },
+        {
+            "name": "LineRenderer",
+            "module": "Core"
+        },
+        {
+            "name": "RendererFake",
+            "module": "Core"
+        },
+        {
+            "name": "MeshRenderer",
+            "module": "Core"
+        },
+        {
+            "name": "ParticleSystemRenderer",
+            "module": "ParticleSystem"
+        },
+        {
+            "name": "SkinnedMeshRenderer",
+            "module": "Core"
+        },
+        {
+            "name": "SpriteMask",
+            "module": "SpriteMask"
+        },
+        {
+            "name": "SpriteRenderer",
+            "module": "Core"
+        },
+        {
+            "name": "SpriteShapeRenderer",
+            "module": "SpriteShape"
+        },
+        {
+            "name": "TilemapRenderer",
+            "module": "Tilemap"
+        },
+        {
+            "name": "TrailRenderer",
+            "module": "Core"
+        },
+        {
+            "name": "VFXRenderer",
+            "module": "VFX"
+        },
+        {
+            "name": "Rigidbody",
+            "module": "Physics"
+        },
+        {
+            "name": "Rigidbody2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "TextMesh",
+            "module": "TextRendering"
+        },
+        {
+            "name": "Transform",
+            "module": "Core"
+        },
+        {
+            "name": "RectTransform",
+            "module": "Core"
+        },
+        {
+            "name": "Tree",
+            "module": "Terrain"
+        },
+        {
+            "name": "WorldAnchor",
+            "module": "VR"
+        },
+        {
+            "name": "GameObject",
+            "module": "Core"
+        },
+        {
+            "name": "NamedObject",
+            "module": "Core"
+        },
+        {
+            "name": "AnimatorState",
+            "module": "Editor"
+        },
+        {
+            "name": "AnimatorStateMachine",
+            "module": "Editor"
+        },
+        {
+            "name": "AnimatorTransitionBase",
+            "module": "Editor"
+        },
+        {
+            "name": "AnimatorStateTransition",
+            "module": "Editor"
+        },
+        {
+            "name": "AnimatorTransition",
+            "module": "Editor"
+        },
+        {
+            "name": "AssetBundle",
+            "module": "AssetBundle"
+        },
+        {
+            "name": "AssetBundleManifest",
+            "module": "AssetBundle"
+        },
+        {
+            "name": "AssetImportInProgressProxy",
+            "module": "Editor"
+        },
+        {
+            "name": "AssetImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "AssemblyDefinitionImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "AssemblyDefinitionReferenceImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "AudioImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "ComputeShaderImporter",
+            "module": "Core"
+        },
+        {
+            "name": "DefaultImporter",
+            "module": "Core"
+        },
+        {
+            "name": "IHVImageFormatImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "LibraryAssetImporter",
+            "module": "Core"
+        },
+        {
+            "name": "LocalizationImporter",
+            "module": "LocalizationEditor"
+        },
+        {
+            "name": "ModelImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "FBXImporter",
+            "module": "Core"
+        },
+        {
+            "name": "Mesh3DSImporter",
+            "module": "Core"
+        },
+        {
+            "name": "SketchUpImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "MonoImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "MovieImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "MultiArtifactTestImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "NativeFormatImporter",
+            "module": "Core"
+        },
+        {
+            "name": "PackageManifestImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "PluginImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "PrefabImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "ReferencesArtifactGenerator",
+            "module": "Editor"
+        },
+        {
+            "name": "ScriptedImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "ShaderImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "SpeedTreeImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "SubstanceImporter",
+            "module": "SubstanceEditor"
+        },
+        {
+            "name": "TextScriptImporter",
+            "module": "Core"
+        },
+        {
+            "name": "TextureImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "TrueTypeFontImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "VideoClipImporter",
+            "module": "Editor"
+        },
+        {
+            "name": "VisualEffectImporter",
+            "module": "VFXEditor"
+        },
+        {
+            "name": "AssetImporterLog",
+            "module": "Core"
+        },
+        {
+            "name": "AudioMixer",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioMixerController",
+            "module": "Editor"
+        },
+        {
+            "name": "AudioMixerEffectController",
+            "module": "Editor"
+        },
+        {
+            "name": "AudioMixerGroup",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioMixerGroupController",
+            "module": "Editor"
+        },
+        {
+            "name": "AudioMixerSnapshot",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioMixerSnapshotController",
+            "module": "Editor"
+        },
+        {
+            "name": "Avatar",
+            "module": "Animation"
+        },
+        {
+            "name": "AvatarMask",
+            "module": "Animation"
+        },
+        {
+            "name": "BaseAnimationTrack",
+            "module": "Animation"
+        },
+        {
+            "name": "NewAnimationTrack",
+            "module": "Animation"
+        },
+        {
+            "name": "BillboardAsset",
+            "module": "Core"
+        },
+        {
+            "name": "BuildReport",
+            "module": "Editor"
+        },
+        {
+            "name": "CachedSpriteAtlas",
+            "module": "Core"
+        },
+        {
+            "name": "CachedSpriteAtlasRuntimeData",
+            "module": "Core"
+        },
+        {
+            "name": "ComputeShader",
+            "module": "Core"
+        },
+        {
+            "name": "DefaultAsset",
+            "module": "Editor"
+        },
+        {
+            "name": "SceneAsset",
+            "module": "Editor"
+        },
+        {
+            "name": "EditorProjectAccess",
+            "module": "Editor"
+        },
+        {
+            "name": "Flare",
+            "module": "Core"
+        },
+        {
+            "name": "Font",
+            "module": "TextRendering"
+        },
+        {
+            "name": "GameObjectRecorder",
+            "module": "Editor"
+        },
+        {
+            "name": "HumanTemplate",
+            "module": "Editor"
+        },
+        {
+            "name": "LightProbes",
+            "module": "Core"
+        },
+        {
+            "name": "LightingDataAsset",
+            "module": "Editor"
+        },
+        {
+            "name": "LightingDataAssetParent",
+            "module": "Core"
+        },
+        {
+            "name": "LightmapParameters",
+            "module": "Editor"
+        },
+        {
+            "name": "LocalizationAsset",
+            "module": "Localization"
+        },
+        {
+            "name": "Material",
+            "module": "Core"
+        },
+        {
+            "name": "ProceduralMaterial",
+            "module": "Substance"
+        },
+        {
+            "name": "Mesh",
+            "module": "Core"
+        },
+        {
+            "name": "Motion",
+            "module": "Animation"
+        },
+        {
+            "name": "AnimationClip",
+            "module": "Animation"
+        },
+        {
+            "name": "PreviewAnimationClip",
+            "module": "Core"
+        },
+        {
+            "name": "BlendTree",
+            "module": "Editor"
+        },
+        {
+            "name": "NavMeshData",
+            "module": "AI"
+        },
+        {
+            "name": "OcclusionCullingData",
+            "module": "Umbra"
+        },
+        {
+            "name": "PhysicMaterial",
+            "module": "Physics"
+        },
+        {
+            "name": "PhysicsMaterial2D",
+            "module": "Physics2D"
+        },
+        {
+            "name": "PreloadData",
+            "module": "Core"
+        },
+        {
+            "name": "Preset",
+            "module": "Editor"
+        },
+        {
+            "name": "RuntimeAnimatorController",
+            "module": "Animation"
+        },
+        {
+            "name": "AnimatorController",
+            "module": "Animation"
+        },
+        {
+            "name": "AnimatorOverrideController",
+            "module": "Animation"
+        },
+        {
+            "name": "SampleClip",
+            "module": "Audio"
+        },
+        {
+            "name": "AudioClip",
+            "module": "Audio"
+        },
+        {
+            "name": "Shader",
+            "module": "Core"
+        },
+        {
+            "name": "ShaderVariantCollection",
+            "module": "Core"
+        },
+        {
+            "name": "SpeedTreeWindAsset",
+            "module": "Terrain"
+        },
+        {
+            "name": "Sprite",
+            "module": "Core"
+        },
+        {
+            "name": "SpriteAtlas",
+            "module": "Core"
+        },
+        {
+            "name": "SubstanceArchive",
+            "module": "Substance"
+        },
+        {
+            "name": "TerrainData",
+            "module": "Terrain"
+        },
+        {
+            "name": "TerrainLayer",
+            "module": "Terrain"
+        },
+        {
+            "name": "TextAsset",
+            "module": "Core"
+        },
+        {
+            "name": "AssemblyDefinitionAsset",
+            "module": "Editor"
+        },
+        {
+            "name": "AssemblyDefinitionReferenceAsset",
+            "module": "Editor"
+        },
+        {
+            "name": "CGProgram",
+            "module": "Core"
+        },
+        {
+            "name": "MonoScript",
+            "module": "Core"
+        },
+        {
+            "name": "PackageManifest",
+            "module": "Editor"
+        },
+        {
+            "name": "Texture",
+            "module": "Core"
+        },
+        {
+            "name": "BaseVideoTexture",
+            "module": "Audio"
+        },
+        {
+            "name": "MovieTexture",
+            "module": "Audio"
+        },
+        {
+            "name": "WebCamTexture",
+            "module": "Audio"
+        },
+        {
+            "name": "CubemapArray",
+            "module": "Core"
+        },
+        {
+            "name": "LowerResBlitTexture",
+            "module": "Core"
+        },
+        {
+            "name": "ProceduralTexture",
+            "module": "Substance"
+        },
+        {
+            "name": "RenderTexture",
+            "module": "Core"
+        },
+        {
+            "name": "CustomRenderTexture",
+            "module": "Core"
+        },
+        {
+            "name": "SparseTexture",
+            "module": "Core"
+        },
+        {
+            "name": "Texture2D",
+            "module": "Core"
+        },
+        {
+            "name": "Cubemap",
+            "module": "Core"
+        },
+        {
+            "name": "Texture2DArray",
+            "module": "Core"
+        },
+        {
+            "name": "Texture3D",
+            "module": "Core"
+        },
+        {
+            "name": "VideoClip",
+            "module": "Video"
+        },
+        {
+            "name": "VisualEffectObject",
+            "module": "VFX"
+        },
+        {
+            "name": "VisualEffectAsset",
+            "module": "VFX"
+        },
+        {
+            "name": "VisualEffectSubgraph",
+            "module": "Editor"
+        },
+        {
+            "name": "VisualEffectSubgraphBlock",
+            "module": "Editor"
+        },
+        {
+            "name": "VisualEffectSubgraphOperator",
+            "module": "Editor"
+        },
+        {
+            "name": "VisualEffectResource",
+            "module": "Editor"
+        },
+        {
+            "name": "EditorExtensionImpl",
+            "module": "Core"
+        },
+        {
+            "name": "EditorSettings",
+            "module": "Editor"
+        },
+        {
+            "name": "EditorUserBuildSettings",
+            "module": "Editor"
+        },
+        {
+            "name": "EditorUserSettings",
+            "module": "Editor"
+        },
+        {
+            "name": "EmptyObject",
+            "module": "Core"
+        },
+        {
+            "name": "GameManager",
+            "module": "Core"
+        },
+        {
+            "name": "GlobalGameManager",
+            "module": "Core"
+        },
+        {
+            "name": "AudioManager",
+            "module": "Audio"
+        },
+        {
+            "name": "BuildSettings",
+            "module": "Core"
+        },
+        {
+            "name": "ClusterInputManager",
+            "module": "ClusterInput"
+        },
+        {
+            "name": "DelayedCallManager",
+            "module": "Core"
+        },
+        {
+            "name": "GraphicsSettings",
+            "module": "Core"
+        },
+        {
+            "name": "InputManager",
+            "module": "Core"
+        },
+        {
+            "name": "MonoManager",
+            "module": "Core"
+        },
+        {
+            "name": "NavMeshProjectSettings",
+            "module": "AI"
+        },
+        {
+            "name": "Physics2DSettings",
+            "module": "Physics2D"
+        },
+        {
+            "name": "PhysicsManager",
+            "module": "Physics"
+        },
+        {
+            "name": "PlayerSettings",
+            "module": "Core"
+        },
+        {
+            "name": "QualitySettings",
+            "module": "Core"
+        },
+        {
+            "name": "ResourceManager",
+            "module": "Core"
+        },
+        {
+            "name": "RuntimeInitializeOnLoadManager",
+            "module": "Core"
+        },
+        {
+            "name": "ScriptMapper",
+            "module": "Core"
+        },
+        {
+            "name": "StreamingManager",
+            "module": "Streaming"
+        },
+        {
+            "name": "TagManager",
+            "module": "Core"
+        },
+        {
+            "name": "TimeManager",
+            "module": "Core"
+        },
+        {
+            "name": "UnityConnectSettings",
+            "module": "UnityConnect"
+        },
+        {
+            "name": "VFXManager",
+            "module": "VFX"
+        },
+        {
+            "name": "LevelGameManager",
+            "module": "Core"
+        },
+        {
+            "name": "LightmapSettings",
+            "module": "Core"
+        },
+        {
+            "name": "NavMeshSettings",
+            "module": "AI"
+        },
+        {
+            "name": "OcclusionCullingSettings",
+            "module": "Umbra"
+        },
+        {
+            "name": "RenderSettings",
+            "module": "Core"
+        },
+        {
+            "name": "HierarchyState",
+            "module": "Core"
+        },
+        {
+            "name": "InspectorExpandedState",
+            "module": "Core"
+        },
+        {
+            "name": "NativeObjectType",
+            "module": "Core"
+        },
+        {
+            "name": "PackedAssets",
+            "module": "BuildReportingEditor"
+        },
+        {
+            "name": "PlatformModuleSetup",
+            "module": "Core"
+        },
+        {
+            "name": "PluginBuildInfo",
+            "module": "BuildReportingEditor"
+        },
+        {
+            "name": "Prefab",
+            "module": "Core"
+        },
+        {
+            "name": "PrefabInstance",
+            "module": "Core"
+        },
+        {
+            "name": "PresetManager",
+            "module": "Editor"
+        },
+        {
+            "name": "PropertyModificationsTargetTestObject",
+            "module": "Core"
+        },
+        {
+            "name": "SceneVisibilityState",
+            "module": "Core"
+        },
+        {
+            "name": "SerializableManagedHost",
+            "module": "Core"
+        },
+        {
+            "name": "SerializableManagedRefTestClass",
+            "module": "Core"
+        },
+        {
+            "name": "SiblingDerived",
+            "module": "Core"
+        },
+        {
+            "name": "SpriteAtlasDatabase",
+            "module": "Core"
+        },
+        {
+            "name": "TestObjectVectorPairStringBool",
+            "module": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedAnimationCurve",
+            "module": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedArray",
+            "module": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedMapStringBool",
+            "module": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedMapStringNonAlignedStruct",
+            "module": "Core"
+        },
+        {
+            "name": "TestObjectWithSpecialLayoutOne",
+            "module": "Core"
+        },
+        {
+            "name": "TestObjectWithSpecialLayoutTwo",
+            "module": "Core"
+        },
+        {
+            "name": "Vector3f",
+            "module": "undefined"
+        },
+        {
+            "name": "AudioMixerLiveUpdateBool",
+            "module": "undefined"
+        },
+        {
+            "name": "bool",
+            "module": "undefined"
+        },
+        {
+            "name": "void",
+            "module": "undefined"
+        },
+        {
+            "name": "RootMotionData",
+            "module": "undefined"
+        },
+        {
+            "name": "AudioMixerLiveUpdateFloat",
+            "module": "undefined"
+        },
+        {
+            "name": "MonoObject",
+            "module": "undefined"
+        },
+        {
+            "name": "Collision2D",
+            "module": "undefined"
+        },
+        {
+            "name": "Polygon2D",
+            "module": "undefined"
+        },
+        {
+            "name": "Collision",
+            "module": "undefined"
+        },
+        {
+            "name": "float",
+            "module": "undefined"
+        },
+        {
+            "name": "int",
+            "module": "undefined"
+        }
+    ],
+    "forceIncludeModules": [],
+    "forceExcludeModules": []
+}
